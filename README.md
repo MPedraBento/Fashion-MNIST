@@ -1,2 +1,2 @@
 # Fashion-MNIST
-Fashion MNIST with ResNet3
+Fashion MNIST with ResNet3 for experimentation of GPU enabled tensorflow and model sublassing.
